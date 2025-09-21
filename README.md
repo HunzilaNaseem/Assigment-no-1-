@@ -42,8 +42,8 @@ The workflow (`.github/workflows/deploy.yml`) is triggered:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/AbdulAhad390/Multi-Branch-Deploy.git
-cd Multi-Branch-Deploy
+git clone https://github.com/HunzilaNaseem/Assigment-no-1.git
+cd Assigment-no-1
 ````
 
 ### 2. Install dependencies
@@ -66,5 +66,5 @@ npm run build
 
 ## 👨‍💻 Author
 
-**Abdul Ahad**
+**Hunzila Bin Naseem**
 
